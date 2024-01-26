@@ -4,6 +4,7 @@
     "description": "example to use mocha with playwright",
     "main": "test/index.spec.js",
     "scripts": {
+        "postinstall": "npx playwright install --with-deps",
         "test": "mocha --timeout 10000"
     },
     "dependencies": {
