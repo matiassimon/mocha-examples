@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "mocha": "latest",
-        "playwright": "^1.9.1"
+        "playwright": "^1.41.1"
     },
     "engines": {
         "node": ">=10.0.0"
